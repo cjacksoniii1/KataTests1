@@ -1,0 +1,17 @@
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\katasolving.test.deps.json
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\katasolving.test.runtimeconfig.json
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\katasolving.test.runtimeconfig.dev.json
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\katasolving.test.dll
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\katasolving.test.pdb
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\katasolving.dll
+C:\Users\Cory\source\repos\katasolving\katasolving.test\bin\Debug\netcoreapp2.1\katasolving.pdb
+C:\Users\Cory\source\repos\katasolving\katasolving.test\obj\Debug\netcoreapp2.1\katasolving.test.csprojAssemblyReference.cache
+C:\Users\Cory\source\repos\katasolving\katasolving.test\obj\Debug\netcoreapp2.1\katasolving.test.csproj.CoreCompileInputs.cache
+C:\Users\Cory\source\repos\katasolving\katasolving.test\obj\Debug\netcoreapp2.1\katasolving.test.AssemblyInfoInputs.cache
+C:\Users\Cory\source\repos\katasolving\katasolving.test\obj\Debug\netcoreapp2.1\katasolving.test.AssemblyInfo.cs
+C:\Users\Cory\source\repos\katasolving\katasolving.test\obj\Debug\netcoreapp2.1\katasolving.test.csproj.CopyComplete
+C:\Users\Cory\source\repos\katasolving\katasolving.test\obj\Debug\netcoreapp2.1\katasolving.test.dll
+C:\Users\Cory\source\repos\katasolving\katasolving.test\obj\Debug\netcoreapp2.1\katasolving.test.pdb

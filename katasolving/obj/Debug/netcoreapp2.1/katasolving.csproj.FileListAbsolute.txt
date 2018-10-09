@@ -1,0 +1,11 @@
+C:\Users\Cory\source\repos\katasolving\katasolving\bin\Debug\netcoreapp2.1\katasolving.deps.json
+C:\Users\Cory\source\repos\katasolving\katasolving\bin\Debug\netcoreapp2.1\katasolving.runtimeconfig.json
+C:\Users\Cory\source\repos\katasolving\katasolving\bin\Debug\netcoreapp2.1\katasolving.runtimeconfig.dev.json
+C:\Users\Cory\source\repos\katasolving\katasolving\bin\Debug\netcoreapp2.1\katasolving.dll
+C:\Users\Cory\source\repos\katasolving\katasolving\bin\Debug\netcoreapp2.1\katasolving.pdb
+C:\Users\Cory\source\repos\katasolving\katasolving\obj\Debug\netcoreapp2.1\katasolving.csprojAssemblyReference.cache
+C:\Users\Cory\source\repos\katasolving\katasolving\obj\Debug\netcoreapp2.1\katasolving.csproj.CoreCompileInputs.cache
+C:\Users\Cory\source\repos\katasolving\katasolving\obj\Debug\netcoreapp2.1\katasolving.AssemblyInfoInputs.cache
+C:\Users\Cory\source\repos\katasolving\katasolving\obj\Debug\netcoreapp2.1\katasolving.AssemblyInfo.cs
+C:\Users\Cory\source\repos\katasolving\katasolving\obj\Debug\netcoreapp2.1\katasolving.dll
+C:\Users\Cory\source\repos\katasolving\katasolving\obj\Debug\netcoreapp2.1\katasolving.pdb
